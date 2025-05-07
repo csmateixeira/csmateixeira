@@ -1,16 +1,113 @@
-## Hi there 👋
+## Hi there 👋 I'm Carla
 
-<!--
-**csmateixeira/csmateixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack software engineer and Tech Lead with a passion for all aspects of technology. I am always excited to try new tools and languages and I love sharing those experiences with others.
 
-Here are some ideas to get you started:
+I started out as a Java backend developer but have now built considerable experience in quite a number of additional languages, such as Node, Angular and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the AuthZ and AuthN spaces
+- 🌱 I’m currently learning Next.js
+
+### Backend Skills
+
+<table>
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Frontend Skills
+
+<table>
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Databases
+
+<table>
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Other
+
+<table>
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
