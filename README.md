@@ -1,3 +1,5 @@
+<div align="center"><img src="./raccoon.svg" height="80px" /> </div>
+
 ## Hi there 👋 I'm Carla
 
 I am a full stack software engineer and Tech Lead with a passion for all aspects of technology. I am always excited to try new tools and languages and I love sharing those experiences with others.
@@ -7,7 +9,7 @@ I started out as a Java backend developer but have now built considerable experi
 - 🔭 I’m currently working on the AuthZ and AuthN spaces
 - 🌱 I’m currently learning Next.js
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csmateixeira&theme=transparent&layout=compact)](https://github.com/csmateixeira/github-readme-stats)
+<a href="https://github.com/csmateixeira/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csmateixeira&theme=transparent&layout=compact" /></a>
 
 ### Backend Skills
 
