@@ -1,4 +1,5 @@
 <div align="center"><img src="./raccoon.svg" height="80px" /> </div>
+<div align="center"><i>When a measure becomes a target, it ceases to be a good measure</i></div>
 
 ## Hi there 👋 I'm Carla
 
