@@ -8,6 +8,7 @@ I started out as a Java backend developer but have now built considerable experi
 
 - 🔭 I’m currently working on the AuthZ and AuthN spaces
 - 🌱 I’m currently learning Next.js
+- ⏮️ I really should go back to... my Home Assistant dashboard!
 
 <a href="https://github.com/csmateixeira/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csmateixeira&theme=transparent&layout=compact" /></a>
 
