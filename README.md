@@ -1,5 +1,6 @@
 <div align="center"><img src="./raccoon.svg" height="80px" /> </div>
 <div align="center"><i>When a measure becomes a target, it ceases to be a good measure</i></div>
+<div align="center">📍 <a href="https://maps.app.goo.gl/8KvgndUfJZQEbsxC6">Dublin, Ireland</a></div>
 
 ## Hi there 👋 I'm Carla
 
@@ -11,7 +12,7 @@ I started out as a Java backend developer but have now built considerable experi
 - 🌱 I’m currently learning Next.js
 - ⏮️ I really should go back to... my Home Assistant dashboard!
 
-<a href="https://github.com/csmateixeira/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csmateixeira&theme=transparent&layout=compact" /></a>
+<div><a href="https://github.com/csmateixeira/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csmateixeira&theme=transparent&layout=compact" /></a></div>
 
 ### Backend Skills
 
