@@ -7,6 +7,8 @@ I started out as a Java backend developer but have now built considerable experi
 - 🔭 I’m currently working on the AuthZ and AuthN spaces
 - 🌱 I’m currently learning Next.js
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csmateixeira&theme=transparent&layout=compact)](https://github.com/csmateixeira/github-readme-stats)
+
 ### Backend Skills
 
 <table>
